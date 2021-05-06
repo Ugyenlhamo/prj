@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011402108555",
+    "project_id": "jobhutfinal",
+    "storage_bucket": "jobhutfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011402108555:android:ad8bc0786e679d41d0ae8e",
+        "android_client_info": {
+          "package_name": "com.gcit.jobhutfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011402108555-um1jlcjh1f1auv6luacu8m07pknjtktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AUc9dZfcPDqKDye0EqQx-qskRqRzSDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011402108555-um1jlcjh1f1auv6luacu8m07pknjtktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
